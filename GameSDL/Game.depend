@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1678460869 source:e:\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_untils.h"
+	"BaseObject.h"
+
+1678460929 e:\game\sdl_untils.h
+	<windows.h>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1678192624 source:e:\game\sdl_untils.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_untils.h"
+
+1678460347 source:e:\game\baseobject.cpp
+	"SDL_untils.h"
+	"BaseObject.h"
+
+1678460624 e:\game\baseobject.h
+
+1678460347 source:e:\github\gamesdl\baseobject.cpp
+	"SDL_untils.h"
+	"BaseObject.h"
+
+1678796536 e:\github\gamesdl\sdl_untils.h
+	<windows.h>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1678760323 e:\github\gamesdl\baseobject.h
+
+1678798007 source:e:\github\gamesdl\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_untils.h"
+	"BaseObject.h"
+	"map.h"
+
+1678192624 source:e:\github\gamesdl\sdl_untils.cpp
+	<iostream>
+	<SDL.h>
+	"SDL_untils.h"
+
+1678796509 e:\github\gamesdl\map.h
+	"SDL_untils.h"
+	"BaseObject.h"
+
+1678797975 source:e:\github\gamesdl\map.cpp
+	"map.h"
+
